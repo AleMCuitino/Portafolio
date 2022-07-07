@@ -5,6 +5,7 @@ La página web se desarrolla como encargo personal para publicar mi portafolio p
 Se piensa en un diseño simple y minimalista que destaque los trabajos creados durante mi desempeño como diseñadora. 
 <br>
 <br>
+![Alt text](https://github.com/AleMCuitino/Portafolio/blob/main/ImagenesReadme/Mockup.png)
 Imagen 1: Mockup de portafolio.
 <br>
 <br>
