@@ -9,3 +9,9 @@ Se piensa en un diseño simple y minimalista que destaque los trabajos creados d
 Imagen 1: Mockup de portafolio.
 <br>
 <br>
+Se inicia el proyecto instalando React en la carpeta que contenga el proyecto. Dentro de esa carpeta, a través de terminal, se corre lo siguiente:
+<br>
+    1. npx create-react-app my-app
+    2. cd my-app
+    3. npm start
+<br>
