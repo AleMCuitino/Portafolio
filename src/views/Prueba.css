@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cuerpo {
+    background-image: url("../assests/Portada.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 92vh;
+    width: 100%;
+
+}
+
+.frente {
+    padding-top: 198px;
+}
+
+.titulo {
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10rem;
+    text-transform: uppercase;
+    color: #BD2063;
+    height: 100px;
+}

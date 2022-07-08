@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 45px;
+    width: 100%;
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 54px;
+    color: #BD2063;
+    text-transform: none;
+    align-content: center;
+}
+
+.nombre {
+    padding-left:80px ;
+}
+.secciones {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 80px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 39px;
+    text-transform: uppercase;
+    color: #666666;    
+}
+
+.link {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.iconos {
+    height: 22px;
+    width: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+
+

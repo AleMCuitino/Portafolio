@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contenido {
+    display: flex;
+    flex-direction: row;
+}
+
+.descripcionAcerca {
+    height: 600px;
+    width: 400px;
+    padding: 170px 0px 0px 80px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    text-align:left;
+}
+
+.herramientas {
+    height: 600px;
+    width: 400px;
+    padding: 170px 0px 0px 100px;
+}
+
+h3 {
+    text-align:left;
+}
+
+.programas {
+    list-style: none;
+    text-align:left;
+    padding: 10px 0 20px 0;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+li {
+    padding: 15px 0 15px 0;
+}
+
+.html {
+    size: 4;
+    width: 140px;
+}
+
+.css {
+    size: 4;
+    width: 140px;
+}
+
+.js {
+    size: 4;
+    width: 100px;
+}
+
+.react {
+    size: 4;
+    width: 120px;
+}
+
+.figma {
+    size: 4;
+    width: 180px;
+}
+
+.ilustrator {
+    stroke: 4px;
+    width: 190px;
+}
+
+.indesign {
+    size-adjust: 4;
+    width: 190px;
+}
+
+.photoshop {
+    size: 4;
+    width: 170px;
+}
