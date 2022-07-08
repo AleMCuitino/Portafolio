@@ -23,3 +23,17 @@ Una vez instalado Create React App en la carpeta del proyecto, comencé creando 
 Imagen 2: Página de inicio y navbar.
 <br>
 <br>
+Con esa página desarrollada, diseñé la vista de Acerca de mi, crear la descripción con un contenedor gráfica de herramientas.
+<br>
+<br>
+![Alt text](https://github.com/AleMCuitino/Portafolio/blob/main/ImagenesReadme/Mockup.png)
+Imagen 3: Página de Acerca de mi. Descripción y mis habilidades.
+<br>
+<br>
+Por último, he diseñado la página de trabajos. Incluye las áreas de trabajo en el cual me he desarrollado, como webdesign.
+<br>
+<br>
+![Alt text](https://github.com/AleMCuitino/Portafolio/blob/main/ImagenesReadme/Mockup.png)
+Imagen 4: Trabajos.
+<br>
+<br>
